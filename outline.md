@@ -458,73 +458,8 @@
    - 供应链安全的最佳实践总结
    - 供应链安全的最佳实践应用案例
    - 供应链安全最佳实践的持续改进
-## 第十一部分：开发安全教学方法
-### 第一节：教学方法概述
-1. **教学方法的定义与分类**
-   - 教学方法的定义
-   - 教学方法的分类
-   - 教学方法的选择原则
-2. **职业教育教学特点**
-   - 职业教育的教学目标
-   - 职业教育的教学方法
-   - 职业教育的教学评价[[30](http://www.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_jyfl/202204/t20220421_620064.html)]
-3. **开发安全教学的特殊要求**
-   - 开发安全教学的目标与特点
-   - 开发安全教学的难点与挑战
-   - 开发安全教学的创新与改革
-### 第二节：任务驱动式教学法
-1. **任务驱动式教学法的原理**
-   - 任务驱动式教学法的定义
-   - 任务驱动式教学法的理论基础
-   - 任务驱动式教学法的特点与优势[[72](http://www.hebuet.edu.cn/jxzlbgs/info/1202/2952.htm)]
-2. **任务驱动式教学法的实施**
-   - 任务设计的原则与方法
-   - 任务实施的流程与策略
-   - 任务评价的标准与方式
-3. **任务驱动式教学法在开发安全教学中的应用**
-   - 开发安全任务设计的案例
-   - 开发安全任务实施的流程
-   - 开发安全任务评价的标准
-### 第三节：案例教学法
-1. **案例教学法的原理**
-   - 案例教学法的定义
-   - 案例教学法的理论基础
-   - 案例教学法的特点与优势[[68](http://www.cpes.com.cn/portal/jsp/portal/PortalControl?flag=newsContent&nid=21009)]
-2. **案例教学法的实施**
-   - 案例开发的三步法：定主题、拆事件、萃经验
-   - 案例教学的流程与策略
-   - 案例评价的标准与方式[[68](http://www.cpes.com.cn/portal/jsp/portal/PortalControl?flag=newsContent&nid=21009)]
-3. **案例教学法在开发安全教学中的应用**
-   - 开发安全案例开发的流程
-   - 开发安全案例教学的实施
-   - 开发安全案例教学的评价[[68](http://www.cpes.com.cn/portal/jsp/portal/PortalControl?flag=newsContent&nid=21009)]
-### 第四节：项目化教学法
-1. **项目化教学法的原理**
-   - 项目化教学法的定义
-   - 项目化教学法的理论基础
-   - 项目化教学法的特点与优势
-2. **项目化教学法的实施**
-   - 项目设计的原则与方法
-   - 项目实施的流程与策略
-   - 项目评价的标准与方式
-3. **项目化教学法在开发安全教学中的应用**
-   - 开发安全项目设计的案例
-   - 开发安全项目实施的流程
-   - 开发安全项目评价的标准
-### 第五节：混合式教学法
-1. **混合式教学法的原理**
-   - 混合式教学法的定义
-   - 混合式教学法的理论基础
-   - 混合式教学法的特点与优势
-2. **混合式教学法的实施**
-   - 线上教学与线下教学的结合
-   - 传统教学与现代教学技术的结合
-   - 理论教学与实践教学的结合
-3. **混合式教学法在开发安全教学中的应用**
-   - 开发安全混合式教学的设计
-   - 开发安全混合式教学的实施
-   - 开发安全混合式教学的评价
-## 第十二部分：开发安全的未来趋势
+
+## 第十一部分：开发安全的未来趋势
 ### 第一节：人工智能与开发安全
 1. **人工智能在开发安全中的应用**
    - 人工智能在安全编码中的应用
@@ -578,25 +513,23 @@
    - 开发安全教育的方法发展趋势
    - 开发安全教育的评价发展趋势
 ## 参考文献
-[1] 《软件安全开发》读后笔记第1章软件安全开发基础. https://zhuanlan.zhihu.com/p/575451298. 
-[2] 开发安全及开发安全治理相关概念原创 - CSDN博客. https://blog.csdn.net/laixiangmin/article/details/136520869. 
-[20] Microsoft 安全开发生命周期(SDL). https://learn.microsoft.com/zh-cn/compliance/assurance/assurance-microsoft-security-development-lifecycle. 
-[24] 【应用安全】微软的安全开发生命周期(SDL) - Bypass - 博客园. https://www.cnblogs.com/xiaozi/p/9959726.html. 
-[25] Java 安全实践：常见漏洞与防御机制原创 - CSDN博客. https://blog.csdn.net/mmc123125/article/details/143485101. 
-[26] 开发中常见的网络安全问题 - 知乎专栏. https://zhuanlan.zhihu.com/p/646432925. 
-[27] 漏洞修复最佳实践 - 阿里云文档. https://help.aliyun.com/zh/security-center/use-cases/fix-vulnerabilities. 
-[30] 中华人民共和国职业教育法. http://www.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_jyfl/202204/t20220421_620064.html. 
-[35] 安全编码实践：什么是安全编码标准?-博客. https://www.trinitytec.com.cn/blog-38. 
-[40] 首頁 - OWASP Top 10:2021. https://owasp.org/Top10/zh_CN/. 
-[43] 首頁- OWASP Top 10:2021. https://owasp.org/Top10/zh_CN/. 
-[48] 移动应用程序安全- 最佳实践和常见漏洞 - Richestsoft. https://richestsoft.com/zh-CN/blog/mobile-app-security-best-practices/. 
-[51] 移动App开发，如何确保Android & iOS应用程序的安全性？. https://www.woshipm.com/it/4075122.html. 
-[54] [PDF] 移动应用安全控制和设计原则TOP 10 - OWASP中国. http://www.owasp.org.cn/OWASP-CHINA/owasp-project/download/2.TOP10_Beta_V2.pdf. 
-[58] 关于安全软件供应链的最佳做法 - Learn Microsoft. https://learn.microsoft.com/zh-cn/nuget/concepts/security-best-practices. 
-[60] 软件供应链安全最佳实践 - Scribe Security. https://scribesecurity.com/zh-CN/software-supply-chain-security/best-practices/. 
-[63] 代码审计中的安全工具 - 知乎专栏. https://zhuanlan.zhihu.com/p/663774210. 
-[64] 代码审核平台-代码审计工具-白盒测试-开源网安. https://www.seczone.cn/channels/SDL-SAST.html. 
-[65] 源代码审计和安全检测| Swift Fuzzer模糊测试工具 - 固源科技. https://www.gysecurity.cn/code.html. 
-[66] Code Sight - SAST & SCA IDE 插件 - Black Duck. https://www.blackduck.com/zh-cn/code-sight.html. 
-[68] 二、基于典型风险事故的案例教学实践 - 中国石油教育学会. http://www.cpes.com.cn/portal/jsp/portal/PortalControl?flag=newsContent&nid=21009. 
-[72] 教学方法运用之任务驱动式教学-工作指南 - 河北工程技术学院. http://www.hebuet.edu.cn/jxzlbgs/info/1202/2952.htm. 
+[1] 《软件安全开发》读后笔记第1章软件安全开发基础. https://zhuanlan.zhihu.com/p/575451298.
+[2] 开发安全及开发安全治理相关概念原创 - CSDN博客. https://blog.csdn.net/laixiangmin/article/details/136520869.
+[20] Microsoft 安全开发生命周期(SDL). https://learn.microsoft.com/zh-cn/compliance/assurance/assurance-microsoft-security-development-lifecycle.
+[24] 【应用安全】微软的安全开发生命周期(SDL) - Bypass - 博客园. https://www.cnblogs.com/xiaozi/p/9959726.html.
+[25] Java 安全实践：常见漏洞与防御机制原创 - CSDN博客. https://blog.csdn.net/mmc123125/article/details/143485101.
+[26] 开发中常见的网络安全问题 - 知乎专栏. https://zhuanlan.zhihu.com/p/646432925.
+[27] 漏洞修复最佳实践 - 阿里云文档. https://help.aliyun.com/zh/security-center/use-cases/fix-vulnerabilities.
+
+[35] 安全编码实践：什么是安全编码标准?-博客. https://www.trinitytec.com.cn/blog-38.
+[40] 首頁 - OWASP Top 10:2021. https://owasp.org/Top10/zh_CN/.
+[43] 首頁- OWASP Top 10:2021. https://owasp.org/Top10/zh_CN/.
+[48] 移动应用程序安全- 最佳实践和常见漏洞 - Richestsoft. https://richestsoft.com/zh-CN/blog/mobile-app-security-best-practices/.
+[51] 移动App开发，如何确保Android & iOS应用程序的安全性？. https://www.woshipm.com/it/4075122.html.
+[54] [PDF] 移动应用安全控制和设计原则TOP 10 - OWASP中国. http://www.owasp.org.cn/OWASP-CHINA/owasp-project/download/2.TOP10_Beta_V2.pdf.
+[58] 关于安全软件供应链的最佳做法 - Learn Microsoft. https://learn.microsoft.com/zh-cn/nuget/concepts/security-best-practices.
+[60] 软件供应链安全最佳实践 - Scribe Security. https://scribesecurity.com/zh-CN/software-supply-chain-security/best-practices/.
+[63] 代码审计中的安全工具 - 知乎专栏. https://zhuanlan.zhihu.com/p/663774210.
+[64] 代码审核平台-代码审计工具-白盒测试-开源网安. https://www.seczone.cn/channels/SDL-SAST.html.
+[65] 源代码审计和安全检测| Swift Fuzzer模糊测试工具 - 固源科技. https://www.gysecurity.cn/code.html.
+[66] Code Sight - SAST & SCA IDE 插件 - Black Duck. https://www.blackduck.com/zh-cn/code-sight.html.
